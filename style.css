@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    background-color: brown; 
+    width: 100%;
+    height: 60px;
+    
+}
+body{
+    background-color: yellow;
+    background-image: url('laptop 02.jpg');
+    background-repeat:no-repeat
+    background-position: right;
+    background-size: cover;
+    
+}
+p{
+    color: rgb(0, 255, 0);
+}
+h2{
+    color: rgba(106, 100, 147, 0.772);
+    border: 10px solid red;
+    padding: 15px;
+    padding-left: 60% ;
+    padding-bottom: 10px;
+    
+
+}
+
+div{
+    color: green;
+    background-color: yellow;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    padding: 20px;
+    border: 10px solid red;
+    
+
+}
